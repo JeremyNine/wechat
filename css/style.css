@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.block{
+    height: 667px;
+    background-color: #EBEBEB;
+}
+.topblock{
+    height: 50px;
+    color: #B4B4B4;
+    background-color: #373B3E;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+.left{
+    line-height: 22px;
+    margin-top: 12px;
+    padding-left: 19px;
+ }
+.center{
+    text-align: center;
+    margin-top: 12px;
+}
+.right{
+    text-align: center;
+    margin-top: 12px;
+}
+.bottomblock{
+    position: fixed;
+    z-index: 999;
+    bottom: -1px;
+    height: 50px;
+    text-align: center;
+    color: #B4B4B4;
+    background-color: white;
+}
+.userxinxi{
+    height: 100px;
+    margin-top: 80px;
+    background-color: white;
+}
+.userimg{
+    height: 100px;
+    padding-left: 4px;
+    padding-top: 5px;
+}
+.erweimablock{
+    height: 35px;
+    width: 35px;
+    margin-top: 31px;
+    margin-left: 31px;
+}
+.userifor{
+    margin-top: 23px;
+    padding-left: 15px;
+}
+.name{
+    font-weight: bold;
+    font-size: larger;
+}
+.haoma{
+    font-size: smaller;
+    color:#A6A6A6 ;
+    margin-top: 10px;
+}
+.qianbao{
+    margin-top: 30px;
+    background-color: white;
+}
+.tu{
+    height: 50px;
+    width: 35px;
+    padding-top: 9px;
+    margin-left: 6px;
+}
+.zi{
+    padding-top: 14px;
+    height: 50px;
+    font-weight: bold;
+}
+.pengyouquan{
+    margin-top: 68px;
+}
+.pengyouquan1{
+    margin-top: 33px;
+}
+.pengyouquan2{
+    margin-top: 33px;
+}
+.txltop{
+    margin-top: 50px;
+    height:auto;
+    background-color: white;
+}
+.lefttu{
+    height: 60px;
+}
+.touxiang{
+    height: 50px;
+    width: 50px;
+    margin-top: 4px;
+    margin-left: 5px;
+}
+.nicheng{
+    line-height: 56px;
+    margin-left: 5px;
+}
+.biaoshifu{
+    margin-left: 9px;
+    color: #828282;
+}
+.xinxilist{
+    background-color: white;
+    border-bottom: 1px solid #E7E7E7;
+}
+.jiewei{
+    margin-bottom: 100px;
+}
+.messageinfo{
+    border-bottom: 1px solid #DEDEDE;
+}
+.diyige{
+    margin-top: 50px;
+}
+.rightblock{
+    height: 60px;
+}
+.topinfo{
+    height: 30px;
+}
+.leftname{
+    height: 30px;
+    line-height: 30px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+.timenew{
+    height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    color: #BBBBBB;
+    text-align: right;
+    padding-right: 10px;
+}
+.mssginfo{
+    height: 30px;
+    line-height: 30px;
+    color: #979797;
+    padding-left: 10px;
+}
